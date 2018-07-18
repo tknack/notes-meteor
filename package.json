@@ -1,0 +1,24 @@
+{
+  "name": "Notes",
+  "private": true,
+  "scripts": {
+    "start": "meteor run",
+    "test": "meteor test --driver-package=cultofcoders:mocha"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.0.0-beta.42",
+    "@types/expect": "^1.20.3",
+    "meteor-node-stubs": "^0.3.2",
+    "moment": "^2.22.2",
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0",
+    "react-router-dom": "^4.2.2",
+    "simpl-schema": "^1.5.0"
+  },
+  "engines": {
+    "node": "8.11.1"
+  },
+  "devDependencies": {
+    "expect": "^23.4.0"
+  }
+}
