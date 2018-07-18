@@ -1,3 +1,3 @@
 # Notes
 
-Take notes here ...
+Take notes here !
