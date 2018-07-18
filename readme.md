@@ -1,3 +1,3 @@
-# Boilerplate Meteor Project
+# Notes
 
-This include a basic react and auth setup.
+Take notes here ...
