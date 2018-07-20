@@ -19,7 +19,6 @@
     "node": "8.11.1"
   },
   "devDependencies": {
-    "expect": "^23.4.0",
-    "jest": "^23.4.1"
+    "expect": "^23.4.0"
   }
 }
