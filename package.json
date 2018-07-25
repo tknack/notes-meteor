@@ -7,6 +7,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.0.0-beta.42",
+    "@types/enzyme-adapter-react-16": "^1.0.2",
     "@types/expect": "^1.20.3",
     "meteor-node-stubs": "^0.3.2",
     "moment": "^2.22.2",
@@ -19,6 +20,9 @@
     "node": "8.11.1"
   },
   "devDependencies": {
-    "expect": "^23.4.0"
+    "enzyme": "^3.3.0",
+    "enzyme-adapter-react-16": "^1.1.1",
+    "expect": "^23.4.0",
+    "react-addons-test-utils": "^15.6.2"
   }
 }
